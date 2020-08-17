@@ -1,3 +1,5 @@
+# A simple React application to learn how to Work with React, a library to simplify front-end web development with JavaScript.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
