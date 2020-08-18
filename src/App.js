@@ -5,7 +5,7 @@ function App() {
         <div>
             <ul>
                 <li>Cross-country delivery</li>
-                <li>Delivery from East and Central Africa</li>
+                <li>Delivery throughout East, Central and Southern Africa</li>
                 <li>Low cost of transportation</li>
             </ul>
         </div>
