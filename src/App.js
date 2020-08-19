@@ -1,13 +1,15 @@
 import React from 'react';
+import Home from './Home';
+import About from './About';
+import Services from './Services';
 
 function App() {
     return(
         <div>
-            <ul>
-                <li>Cross-country delivery</li>
-                <li>Delivery throughout East, Central and Southern Africa</li>
-                <li>Low cost of transportation</li>
-            </ul>
+            <h1>This is the Header Section of the App.</h1>
+            <Home />
+            <Services />
+            <About />
         </div>
     )
 }
