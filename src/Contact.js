@@ -1,9 +1,10 @@
 import React from 'react';
+import "./index.css";
 
 function Contact() {
     return (
         <div>
-            <h2>This is the Contact page.</h2>
+            <h2 className="second-style">This is the Contact page.</h2>
         </div>
     )
 }
