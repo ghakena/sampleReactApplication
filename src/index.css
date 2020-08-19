@@ -1,8 +1,6 @@
-.first-style {
-    background-color: lightgray;
-}
-
-.second-style {
+.services-div, .contact-div, .about-div, .app-div {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-
+ .home-div {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }

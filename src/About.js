@@ -1,9 +1,10 @@
 import React from 'react';
+import './index.css';
 
 function About() {
     return (
-        <div>
-            <h2>This is the About section</h2>
+        <div className="about-div">
+            <h1>This is the About Section</h1>
         </div>
     )
 }
