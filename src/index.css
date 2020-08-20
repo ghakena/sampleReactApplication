@@ -1,6 +1,14 @@
 .services-div, .contact-div, .about-div, .app-div {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Bangers', cursive;
+    color: darkslategray;
 }
  .home-div {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Bangers', cursive;
+    color: darkslategray;
  }
+.nav-div {
+    font-family: 'Bangers', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-size: x-large;
+    color: darkslategray;
+}
