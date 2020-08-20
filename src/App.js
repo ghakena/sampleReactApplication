@@ -11,12 +11,11 @@ function App() {
     return(
         <div className="app-div">
             <BrowserRouter>
-                <h1>This is the Header Section of the App.</h1>
                 <Nav />
-                <Home />
-                <Services />
-                <About />
-                <Contact />
+                <Route path="/" exact component={Home}/>
+                <Route path="/about" component={About} />
+                <Route path="/services" component={Services}/>
+                <Route path="/contact" component={Contact} />
             </BrowserRouter>
             
         </div>
